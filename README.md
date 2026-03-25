@@ -1,10 +1,10 @@
-# <img src="https://avatars.githubusercontent.com/u/23418820?s=200&v=4" width="28" style="vertical-align:middle;" /> tronalddump.py
+# <img src="https://avatars.githubusercontent.com/u/23418820?s=200&v=4" width="28" style="vertical-align:middle;" /> tronald_dump.py
 
 > Web-API for [TronaldDump](https://tronalddump.io) a searchable archive of Trump quotes, memes, authors, and tags.
 
 ## Quick Start
 ```python
-from tronalddump import TronaldDump
+from tronald_dump import TronaldDump
 
 td = TronaldDump()
 print(td.get_random_quote())
